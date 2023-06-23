@@ -1,0 +1,8 @@
+Speechrecognition==3.10.0
+pyttsx3==2.90
+PyAudio==0.2.13
+pywhatkit==5.4
+wikipedia==1.4.0
+pygame==2.4.0
+keyboard==0.13.5
+fakeyou==1.2.5
